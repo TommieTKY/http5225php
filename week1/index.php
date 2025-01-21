@@ -6,6 +6,6 @@
     <title>Week1</title>
 </head>
 <body>
-    <?php echo "Hello Tommie!" ?>
+    <?php echo "Hello Tommie!"; ?>
 </body>
 </html>
