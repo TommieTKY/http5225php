@@ -31,10 +31,24 @@
 
     echo '<br>';
     echo 'Hello, '.$person['first'];
+
     echo '<br>';
+    echo '<br>';
+
     echo '<a href="mailto:'.$person['email'].'">'.$person['email'].'</a>';
     echo '<br>';
-    echo '<a href="'.$person['web'].'">humber.ca</a>';
+    echo '<a href="'.$person['web'].'">'.$person['web'].'</a>';
+
+    echo '<br>';
+    echo '<br>';
+
+    echo "<a href=\"mailto:'{$person['email']}\">{$person['email']}</a>";
+    echo '<br>';
+
     ?>
+
+    <h1>Hello, <?=$person['first']?><h1>
+    <a href="<?=$person['web']?>"><?=$person['web']?></a>
+
 </body>
 </html>
