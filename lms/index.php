@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <link rel="stylesheet" href="styles.css"> -->
   <title>LMS</title>
 
   <!-- Bootstrap CDN CSS -->
@@ -32,6 +33,18 @@
                       <h5 class="card-title">' . $school['Board'] . '</h5>
                       <span class="badge rounded-pill bg-primary">' . $school['School Type'] .'</span>
                       <span class="badge rounded-pill bg-success">' . $school['Language'] .'</span>
+                    </div>
+
+                    <div class="card-footer">
+                      <form action="updateschool.php" method="GET">
+                        <input type="hidden" name="boardNo" value="' . $school['Board No'] .'">
+                        <button type="submit" name="updateSchool" class="btn btn-sm btn-success">Edit</button>
+                      </form>
+
+                      <form action="deleteschool.php" method="GET">
+                        <input type="hidden" name="boardNo" value="' . $school['Board No'] . '">
+                        <button type="submit" name="deleteSchool" class=" btn btn-sm btn-danger">Delete</button>
+                      </form>
                     </div>
                   </div>
                 </div>';

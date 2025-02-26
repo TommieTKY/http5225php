@@ -1,5 +1,5 @@
       <?php
-        $database = "csv_db 15";
+        $database = "schools";
         $connect = mysqli_connect(
           'localhost', //URL
           'root', //Username
