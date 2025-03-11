@@ -1,0 +1,1131 @@
+_id,dataCollectionDate,beachName,windSpeed,windDirection
+16631,2024-04-26,Marie Curtis Park East Beach,,None
+16632,2024-04-26,Sunnyside Beach,,None
+16633,2024-04-26,Hanlan's Point Beach,,None
+16634,2024-04-26,Gibraltar Point Beach,,None
+16635,2024-04-26,Centre Island Beach,,None
+16636,2024-04-26,Ward's Island Beach,,None
+16637,2024-04-26,Cherry Beach,,None
+16638,2024-04-26,Woodbine Beaches,,None
+16639,2024-04-26,Kew Balmy Beach,,None
+16640,2024-04-26,Bluffer's Beach Park,,None
+11908,2024-05-15,Marie Curtis Park East Beach,,None
+11909,2024-05-15,Sunnyside Beach,,None
+11910,2024-05-15,Hanlan's Point Beach,,None
+11911,2024-05-15,Gibraltar Point Beach,,None
+11912,2024-05-15,Centre Island Beach,,None
+11913,2024-05-15,Ward's Island Beach,,None
+11914,2024-05-15,Cherry Beach,,None
+11915,2024-05-15,Woodbine Beaches,,None
+11916,2024-05-15,Kew Balmy Beach,,None
+11917,2024-05-15,Bluffer's Beach Park,,None
+12888,2024-05-21,Marie Curtis Park East Beach,9,SE
+12889,2024-05-21,Sunnyside Beach,9,SE
+12890,2024-05-21,Hanlan's Point Beach,9,SE
+12891,2024-05-21,Gibraltar Point Beach,9,SE
+12892,2024-05-21,Centre Island Beach,9,SE
+12893,2024-05-21,Ward's Island Beach,9,SE
+12894,2024-05-21,Cherry Beach,9,SE
+12895,2024-05-21,Woodbine Beaches,9,SE
+12896,2024-05-21,Kew Balmy Beach,9,SE
+12897,2024-05-21,Bluffer's Beach Park,9,SE
+16401,2024-05-22,Marie Curtis Park East Beach,9,SE
+16402,2024-05-22,Sunnyside Beach,9,SE
+16403,2024-05-22,Hanlan's Point Beach,9,SE
+16404,2024-05-22,Gibraltar Point Beach,9,SE
+16405,2024-05-22,Centre Island Beach,9,SE
+16406,2024-05-22,Ward's Island Beach,9,SE
+16407,2024-05-22,Cherry Beach,9,SE
+16408,2024-05-22,Woodbine Beaches,9,SE
+16409,2024-05-22,Kew Balmy Beach,9,SE
+16410,2024-05-22,Bluffer's Beach Park,9,SE
+12158,2024-05-23,Marie Curtis Park East Beach,15,W
+12159,2024-05-23,Sunnyside Beach,15,W
+12160,2024-05-23,Hanlan's Point Beach,15,W
+12161,2024-05-23,Gibraltar Point Beach,15,W
+12162,2024-05-23,Centre Island Beach,15,W
+12163,2024-05-23,Ward's Island Beach,15,W
+12164,2024-05-23,Cherry Beach,15,W
+12165,2024-05-23,Woodbine Beaches,15,W
+12166,2024-05-23,Kew Balmy Beach,15,W
+12167,2024-05-23,Bluffer's Beach Park,15,W
+15371,2024-05-24,Marie Curtis Park East Beach,18,NW
+15372,2024-05-24,Sunnyside Beach,18,NW
+15373,2024-05-24,Hanlan's Point Beach,18,NW
+15374,2024-05-24,Gibraltar Point Beach,18,NW
+15375,2024-05-24,Centre Island Beach,18,NW
+15376,2024-05-24,Ward's Island Beach,18,NW
+15377,2024-05-24,Cherry Beach,18,NW
+15378,2024-05-24,Woodbine Beaches,18,NW
+15379,2024-05-24,Kew Balmy Beach,18,NW
+15380,2024-05-24,Bluffer's Beach Park,18,NW
+13939,2024-05-25,Marie Curtis Park East Beach,32,NE
+13940,2024-05-25,Sunnyside Beach,32,NE
+13941,2024-05-25,Hanlan's Point Beach,32,NE
+13942,2024-05-25,Gibraltar Point Beach,32,NE
+13943,2024-05-25,Centre Island Beach,32,NE
+13944,2024-05-25,Ward's Island Beach,32,NE
+13945,2024-05-25,Cherry Beach,32,NE
+13946,2024-05-25,Woodbine Beaches,32,NE
+13947,2024-05-25,Kew Balmy Beach,32,NE
+13948,2024-05-25,Bluffer's Beach Park,32,NE
+12988,2024-05-26,Marie Curtis Park East Beach,11,N
+12989,2024-05-26,Sunnyside Beach,11,N
+12990,2024-05-26,Hanlan's Point Beach,11,N
+12991,2024-05-26,Gibraltar Point Beach,11,N
+12992,2024-05-26,Centre Island Beach,11,N
+12993,2024-05-26,Ward's Island Beach,11,N
+12994,2024-05-26,Cherry Beach,11,N
+12995,2024-05-26,Woodbine Beaches,11,N
+12996,2024-05-26,Kew Balmy Beach,11,N
+12997,2024-05-26,Bluffer's Beach Park,11,N
+15761,2024-05-27,Marie Curtis Park East Beach,4,SE
+15762,2024-05-27,Sunnyside Beach,4,SE
+15763,2024-05-27,Hanlan's Point Beach,4,SE
+15764,2024-05-27,Gibraltar Point Beach,4,SE
+15765,2024-05-27,Centre Island Beach,4,SE
+15766,2024-05-27,Ward's Island Beach,4,SE
+15767,2024-05-27,Cherry Beach,4,SE
+15768,2024-05-27,Woodbine Beaches,4,SE
+15769,2024-05-27,Kew Balmy Beach,4,SE
+15770,2024-05-27,Bluffer's Beach Park,4,SE
+16601,2024-05-28,Marie Curtis Park East Beach,30,NW
+16602,2024-05-28,Sunnyside Beach,30,NW
+16603,2024-05-28,Hanlan's Point Beach,30,NW
+16604,2024-05-28,Gibraltar Point Beach,30,NW
+16605,2024-05-28,Centre Island Beach,30,NW
+16606,2024-05-28,Ward's Island Beach,30,NW
+16607,2024-05-28,Cherry Beach,30,NW
+16608,2024-05-28,Woodbine Beaches,30,NW
+16609,2024-05-28,Kew Balmy Beach,30,NW
+16610,2024-05-28,Bluffer's Beach Park,30,NW
+15801,2024-05-29,Marie Curtis Park East Beach,18,NE
+15802,2024-05-29,Sunnyside Beach,18,NE
+15803,2024-05-29,Hanlan's Point Beach,18,NE
+15804,2024-05-29,Gibraltar Point Beach,18,NE
+15805,2024-05-29,Centre Island Beach,18,NE
+15806,2024-05-29,Ward's Island Beach,18,NE
+15807,2024-05-29,Cherry Beach,18,NE
+15808,2024-05-29,Woodbine Beaches,18,NE
+15809,2024-05-29,Kew Balmy Beach,18,NE
+15810,2024-05-29,Bluffer's Beach Park,18,NE
+11698,2024-05-30,Marie Curtis Park East Beach,17,NW
+11699,2024-05-30,Sunnyside Beach,17,NW
+11700,2024-05-30,Hanlan's Point Beach,17,NW
+11701,2024-05-30,Gibraltar Point Beach,17,NW
+11702,2024-05-30,Centre Island Beach,17,NW
+11703,2024-05-30,Ward's Island Beach,17,NW
+11704,2024-05-30,Cherry Beach,17,NW
+11705,2024-05-30,Woodbine Beaches,17,NW
+11706,2024-05-30,Kew Balmy Beach,17,NW
+11707,2024-05-30,Bluffer's Beach Park,17,NW
+11768,2024-05-31,Marie Curtis Park East Beach,9,W
+11769,2024-05-31,Sunnyside Beach,9,W
+11770,2024-05-31,Hanlan's Point Beach,9,W
+11771,2024-05-31,Gibraltar Point Beach,9,W
+11772,2024-05-31,Centre Island Beach,9,W
+11773,2024-05-31,Ward's Island Beach,9,W
+11774,2024-05-31,Cherry Beach,9,W
+11775,2024-05-31,Woodbine Beaches,9,W
+11776,2024-05-31,Kew Balmy Beach,9,W
+11777,2024-05-31,Bluffer's Beach Park,9,W
+14579,2024-06-01,Marie Curtis Park East Beach,4,S
+14580,2024-06-01,Sunnyside Beach,4,S
+14581,2024-06-01,Hanlan's Point Beach,4,S
+14582,2024-06-01,Gibraltar Point Beach,4,S
+14583,2024-06-01,Centre Island Beach,4,S
+14584,2024-06-01,Ward's Island Beach,4,S
+14585,2024-06-01,Cherry Beach,4,S
+14586,2024-06-01,Woodbine Beaches,4,S
+14587,2024-06-01,Kew Balmy Beach,4,S
+14588,2024-06-01,Bluffer's Beach Park,4,S
+16801,2024-06-02,Marie Curtis Park East Beach,13,NE
+16802,2024-06-02,Sunnyside Beach,13,NE
+16803,2024-06-02,Hanlan's Point Beach,13,NE
+16804,2024-06-02,Gibraltar Point Beach,13,NE
+16805,2024-06-02,Centre Island Beach,13,NE
+16806,2024-06-02,Ward's Island Beach,13,NE
+16807,2024-06-02,Cherry Beach,13,NE
+16808,2024-06-02,Woodbine Beaches,13,NE
+16809,2024-06-02,Kew Balmy Beach,13,NE
+16810,2024-06-02,Bluffer's Beach Park,13,NE
+11478,2024-06-03,Marie Curtis Park East Beach,15,NE
+11479,2024-06-03,Sunnyside Beach,15,NE
+11480,2024-06-03,Hanlan's Point Beach,15,NE
+11481,2024-06-03,Gibraltar Point Beach,15,NE
+11482,2024-06-03,Centre Island Beach,15,NE
+11483,2024-06-03,Ward's Island Beach,15,NE
+11484,2024-06-03,Cherry Beach,15,NE
+11485,2024-06-03,Woodbine Beaches,15,NE
+11486,2024-06-03,Kew Balmy Beach,15,NE
+11487,2024-06-03,Bluffer's Beach Park,15,NE
+12038,2024-06-04,Marie Curtis Park East Beach,17,NE
+12039,2024-06-04,Sunnyside Beach,17,NE
+12040,2024-06-04,Hanlan's Point Beach,17,NE
+12041,2024-06-04,Gibraltar Point Beach,17,NE
+12042,2024-06-04,Centre Island Beach,17,NE
+12043,2024-06-04,Ward's Island Beach,17,NE
+12044,2024-06-04,Cherry Beach,17,NE
+12045,2024-06-04,Woodbine Beaches,17,NE
+12046,2024-06-04,Kew Balmy Beach,17,NE
+12047,2024-06-04,Bluffer's Beach Park,17,NE
+13182,2024-06-05,Marie Curtis Park East Beach,18,E
+13183,2024-06-05,Sunnyside Beach,18,E
+13184,2024-06-05,Hanlan's Point Beach,18,E
+13185,2024-06-05,Gibraltar Point Beach,18,E
+13186,2024-06-05,Centre Island Beach,18,E
+13187,2024-06-05,Ward's Island Beach,18,E
+13188,2024-06-05,Cherry Beach,18,E
+13189,2024-06-05,Woodbine Beaches,18,E
+13190,2024-06-05,Kew Balmy Beach,18,E
+13191,2024-06-05,Bluffer's Beach Park,18,E
+17891,2024-06-06,Marie Curtis Park East Beach,8,SW
+17892,2024-06-06,Sunnyside Beach,8,SW
+17893,2024-06-06,Hanlan's Point Beach,8,SW
+17894,2024-06-06,Gibraltar Point Beach,8,SW
+17895,2024-06-06,Centre Island Beach,8,SW
+17896,2024-06-06,Ward's Island Beach,8,SW
+17897,2024-06-06,Cherry Beach,8,SW
+17898,2024-06-06,Woodbine Beaches,8,SW
+17899,2024-06-06,Kew Balmy Beach,8,SW
+17900,2024-06-06,Bluffer's Beach Park,8,SW
+17421,2024-06-07,Marie Curtis Park East Beach,15,W
+17422,2024-06-07,Sunnyside Beach,15,W
+17423,2024-06-07,Hanlan's Point Beach,15,W
+17424,2024-06-07,Gibraltar Point Beach,15,W
+17425,2024-06-07,Centre Island Beach,15,W
+17426,2024-06-07,Ward's Island Beach,15,W
+17427,2024-06-07,Cherry Beach,15,W
+17428,2024-06-07,Woodbine Beaches,15,W
+17429,2024-06-07,Kew Balmy Beach,15,W
+17430,2024-06-07,Bluffer's Beach Park,15,W
+12218,2024-06-08,Marie Curtis Park East Beach,18,W
+12219,2024-06-08,Sunnyside Beach,18,W
+12220,2024-06-08,Hanlan's Point Beach,18,W
+12221,2024-06-08,Gibraltar Point Beach,18,W
+12222,2024-06-08,Centre Island Beach,18,W
+12223,2024-06-08,Ward's Island Beach,18,W
+12224,2024-06-08,Cherry Beach,18,W
+12225,2024-06-08,Woodbine Beaches,18,W
+12226,2024-06-08,Kew Balmy Beach,18,W
+12227,2024-06-08,Bluffer's Beach Park,18,W
+12228,2024-06-09,Marie Curtis Park East Beach,9,W
+12229,2024-06-09,Sunnyside Beach,9,W
+12230,2024-06-09,Hanlan's Point Beach,9,W
+12231,2024-06-09,Gibraltar Point Beach,9,W
+12232,2024-06-09,Centre Island Beach,9,W
+12233,2024-06-09,Ward's Island Beach,9,W
+12234,2024-06-09,Cherry Beach,9,W
+12235,2024-06-09,Woodbine Beaches,9,W
+12236,2024-06-09,Kew Balmy Beach,9,W
+12237,2024-06-09,Bluffer's Beach Park,9,W
+14549,2024-06-10,Marie Curtis Park East Beach,18,NW
+14550,2024-06-10,Sunnyside Beach,18,NW
+14551,2024-06-10,Hanlan's Point Beach,18,NW
+14552,2024-06-10,Gibraltar Point Beach,18,NW
+14553,2024-06-10,Centre Island Beach,18,NW
+14554,2024-06-10,Ward's Island Beach,18,NW
+14555,2024-06-10,Cherry Beach,18,NW
+14556,2024-06-10,Woodbine Beaches,18,NW
+14557,2024-06-10,Kew Balmy Beach,18,NW
+14558,2024-06-10,Bluffer's Beach Park,18,NW
+16321,2024-06-11,Marie Curtis Park East Beach,13,N
+16322,2024-06-11,Sunnyside Beach,13,N
+16323,2024-06-11,Hanlan's Point Beach,13,N
+16324,2024-06-11,Gibraltar Point Beach,13,N
+16325,2024-06-11,Centre Island Beach,13,N
+16326,2024-06-11,Ward's Island Beach,13,N
+16327,2024-06-11,Cherry Beach,13,N
+16328,2024-06-11,Woodbine Beaches,13,N
+16329,2024-06-11,Kew Balmy Beach,13,N
+16330,2024-06-11,Bluffer's Beach Park,13,N
+16831,2024-06-12,Marie Curtis Park East Beach,11,E
+16832,2024-06-12,Sunnyside Beach,11,E
+16833,2024-06-12,Hanlan's Point Beach,11,E
+16834,2024-06-12,Gibraltar Point Beach,11,E
+16835,2024-06-12,Centre Island Beach,11,E
+16836,2024-06-12,Ward's Island Beach,11,E
+16837,2024-06-12,Cherry Beach,11,E
+16838,2024-06-12,Woodbine Beaches,11,E
+16839,2024-06-12,Kew Balmy Beach,11,E
+16840,2024-06-12,Bluffer's Beach Park,11,E
+12848,2024-06-13,Marie Curtis Park East Beach,4,E
+12849,2024-06-13,Sunnyside Beach,4,E
+12850,2024-06-13,Hanlan's Point Beach,4,E
+12851,2024-06-13,Gibraltar Point Beach,4,E
+12852,2024-06-13,Centre Island Beach,4,E
+12853,2024-06-13,Ward's Island Beach,4,E
+12854,2024-06-13,Cherry Beach,4,E
+12855,2024-06-13,Woodbine Beaches,4,E
+12856,2024-06-13,Kew Balmy Beach,4,E
+12857,2024-06-13,Bluffer's Beach Park,4,E
+17251,2024-06-14,Marie Curtis Park East Beach,13,SW
+17252,2024-06-14,Sunnyside Beach,13,SW
+17253,2024-06-14,Hanlan's Point Beach,13,SW
+17254,2024-06-14,Gibraltar Point Beach,13,SW
+17255,2024-06-14,Centre Island Beach,13,SW
+17256,2024-06-14,Ward's Island Beach,13,SW
+17257,2024-06-14,Cherry Beach,13,SW
+17258,2024-06-14,Woodbine Beaches,13,SW
+17259,2024-06-14,Kew Balmy Beach,13,SW
+17260,2024-06-14,Bluffer's Beach Park,13,SW
+11778,2024-06-15,Marie Curtis Park East Beach,11,N
+11779,2024-06-15,Sunnyside Beach,11,N
+11780,2024-06-15,Hanlan's Point Beach,11,N
+11781,2024-06-15,Gibraltar Point Beach,11,N
+11782,2024-06-15,Centre Island Beach,11,N
+11783,2024-06-15,Ward's Island Beach,11,N
+11784,2024-06-15,Cherry Beach,11,N
+11785,2024-06-15,Woodbine Beaches,11,N
+11786,2024-06-15,Kew Balmy Beach,11,N
+11787,2024-06-15,Bluffer's Beach Park,11,N
+11788,2024-06-16,Marie Curtis Park East Beach,17,NE
+11789,2024-06-16,Sunnyside Beach,17,NE
+11790,2024-06-16,Hanlan's Point Beach,17,NE
+11791,2024-06-16,Gibraltar Point Beach,17,NE
+11792,2024-06-16,Centre Island Beach,17,NE
+11793,2024-06-16,Ward's Island Beach,17,NE
+11794,2024-06-16,Cherry Beach,4,SE
+11795,2024-06-16,Woodbine Beaches,4,SE
+11796,2024-06-16,Kew Balmy Beach,4,SE
+11797,2024-06-16,Bluffer's Beach Park,4,SE
+11798,2024-06-17,Marie Curtis Park East Beach,15,NE
+11799,2024-06-17,Sunnyside Beach,15,NE
+11800,2024-06-17,Hanlan's Point Beach,15,NE
+11801,2024-06-17,Gibraltar Point Beach,15,NE
+11802,2024-06-17,Centre Island Beach,15,NE
+11803,2024-06-17,Ward's Island Beach,15,NE
+11804,2024-06-17,Cherry Beach,15,NE
+11805,2024-06-17,Woodbine Beaches,15,NE
+11806,2024-06-17,Kew Balmy Beach,15,NE
+11807,2024-06-17,Bluffer's Beach Park,15,NE
+17591,2024-06-18,Marie Curtis Park East Beach,21,S
+17592,2024-06-18,Sunnyside Beach,21,S
+17593,2024-06-18,Hanlan's Point Beach,21,S
+17594,2024-06-18,Gibraltar Point Beach,21,S
+17595,2024-06-18,Centre Island Beach,21,S
+17596,2024-06-18,Ward's Island Beach,21,S
+17597,2024-06-18,Cherry Beach,21,S
+17598,2024-06-18,Woodbine Beaches,21,S
+17599,2024-06-18,Kew Balmy Beach,21,S
+17600,2024-06-18,Bluffer's Beach Park,21,S
+16251,2024-06-19,Marie Curtis Park East Beach,4,S
+16252,2024-06-19,Sunnyside Beach,4,S
+16253,2024-06-19,Hanlan's Point Beach,4,S
+16254,2024-06-19,Gibraltar Point Beach,4,S
+16255,2024-06-19,Centre Island Beach,4,S
+16256,2024-06-19,Ward's Island Beach,4,S
+16257,2024-06-19,Cherry Beach,4,S
+16258,2024-06-19,Woodbine Beaches,4,S
+16259,2024-06-19,Kew Balmy Beach,4,S
+16260,2024-06-19,Bluffer's Beach Park,4,S
+15641,2024-06-20,Marie Curtis Park East Beach,11,W
+15642,2024-06-20,Sunnyside Beach,11,W
+15643,2024-06-20,Hanlan's Point Beach,11,W
+15644,2024-06-20,Gibraltar Point Beach,11,W
+15645,2024-06-20,Centre Island Beach,11,W
+15646,2024-06-20,Ward's Island Beach,11,W
+15647,2024-06-20,Cherry Beach,11,W
+15648,2024-06-20,Woodbine Beaches,11,W
+15649,2024-06-20,Kew Balmy Beach,11,W
+15650,2024-06-20,Bluffer's Beach Park,11,W
+16821,2024-06-21,Marie Curtis Park East Beach,17,E
+16822,2024-06-21,Sunnyside Beach,17,E
+16823,2024-06-21,Hanlan's Point Beach,17,E
+16824,2024-06-21,Gibraltar Point Beach,17,E
+16825,2024-06-21,Centre Island Beach,17,E
+16826,2024-06-21,Ward's Island Beach,17,E
+16827,2024-06-21,Cherry Beach,17,E
+16828,2024-06-21,Woodbine Beaches,17,E
+16829,2024-06-21,Kew Balmy Beach,17,E
+16830,2024-06-21,Bluffer's Beach Park,17,E
+12468,2024-06-22,Marie Curtis Park East Beach,5,SE
+12469,2024-06-22,Sunnyside Beach,5,SE
+12470,2024-06-22,Hanlan's Point Beach,5,SE
+12471,2024-06-22,Gibraltar Point Beach,5,SE
+12472,2024-06-22,Centre Island Beach,5,SE
+12473,2024-06-22,Ward's Island Beach,5,SE
+12474,2024-06-22,Cherry Beach,5,SE
+12475,2024-06-22,Woodbine Beaches,5,SE
+12476,2024-06-22,Kew Balmy Beach,5,SE
+12477,2024-06-22,Bluffer's Beach Park,5,SE
+13469,2024-06-23,Marie Curtis Park East Beach,5,E
+13470,2024-06-23,Sunnyside Beach,5,E
+13471,2024-06-23,Hanlan's Point Beach,5,E
+13472,2024-06-23,Gibraltar Point Beach,5,E
+13473,2024-06-23,Centre Island Beach,5,E
+13474,2024-06-23,Ward's Island Beach,5,E
+13475,2024-06-23,Cherry Beach,5,E
+13476,2024-06-23,Woodbine Beaches,5,E
+13477,2024-06-23,Kew Balmy Beach,5,E
+13478,2024-06-23,Bluffer's Beach Park,5,E
+13479,2024-06-24,Marie Curtis Park East Beach,11,NW
+13480,2024-06-24,Sunnyside Beach,11,NW
+13481,2024-06-24,Hanlan's Point Beach,11,NW
+13482,2024-06-24,Gibraltar Point Beach,11,NW
+13483,2024-06-24,Centre Island Beach,11,NW
+13484,2024-06-24,Ward's Island Beach,11,NW
+13485,2024-06-24,Cherry Beach,11,NW
+13486,2024-06-24,Woodbine Beaches,11,NW
+13487,2024-06-24,Kew Balmy Beach,11,NW
+13488,2024-06-24,Bluffer's Beach Park,11,NW
+15811,2024-06-25,Marie Curtis Park East Beach,4,SW
+15812,2024-06-25,Sunnyside Beach,4,SW
+15813,2024-06-25,Hanlan's Point Beach,4,SW
+15814,2024-06-25,Gibraltar Point Beach,4,SW
+15815,2024-06-25,Centre Island Beach,4,SW
+15816,2024-06-25,Ward's Island Beach,4,SW
+15817,2024-06-25,Cherry Beach,4,SW
+15818,2024-06-25,Woodbine Beaches,4,SW
+15819,2024-06-25,Kew Balmy Beach,4,SW
+15820,2024-06-25,Bluffer's Beach Park,4,SW
+12248,2024-06-26,Marie Curtis Park East Beach,8,SW
+12249,2024-06-26,Sunnyside Beach,8,SW
+12250,2024-06-26,Hanlan's Point Beach,8,SW
+12251,2024-06-26,Gibraltar Point Beach,8,SW
+12252,2024-06-26,Centre Island Beach,8,SW
+12253,2024-06-26,Ward's Island Beach,8,SW
+12254,2024-06-26,Cherry Beach,8,SW
+12255,2024-06-26,Woodbine Beaches,8,SW
+12256,2024-06-26,Kew Balmy Beach,8,SW
+12257,2024-06-26,Bluffer's Beach Park,8,SW
+13429,2024-06-27,Marie Curtis Park East Beach,11,NW
+13430,2024-06-27,Sunnyside Beach,11,NW
+13431,2024-06-27,Hanlan's Point Beach,11,NW
+13432,2024-06-27,Gibraltar Point Beach,11,NW
+13433,2024-06-27,Centre Island Beach,11,NW
+13434,2024-06-27,Ward's Island Beach,11,NW
+13435,2024-06-27,Cherry Beach,11,NW
+13436,2024-06-27,Woodbine Beaches,11,NW
+13437,2024-06-27,Kew Balmy Beach,11,NW
+13438,2024-06-27,Bluffer's Beach Park,11,NW
+14798,2024-06-28,Marie Curtis Park East Beach,15,E
+14799,2024-06-28,Sunnyside Beach,15,E
+14800,2024-06-28,Hanlan's Point Beach,15,E
+14801,2024-06-28,Gibraltar Point Beach,15,E
+14802,2024-06-28,Centre Island Beach,15,E
+14803,2024-06-28,Ward's Island Beach,15,E
+14804,2024-06-28,Cherry Beach,15,E
+14805,2024-06-28,Woodbine Beaches,15,E
+14806,2024-06-28,Kew Balmy Beach,15,E
+14807,2024-06-28,Bluffer's Beach Park,15,E
+16121,2024-06-29,Marie Curtis Park East Beach,21,E
+16122,2024-06-29,Sunnyside Beach,21,E
+16123,2024-06-29,Hanlan's Point Beach,21,E
+16124,2024-06-29,Gibraltar Point Beach,21,E
+16125,2024-06-29,Centre Island Beach,21,E
+16126,2024-06-29,Ward's Island Beach,21,E
+16127,2024-06-29,Cherry Beach,21,E
+16128,2024-06-29,Woodbine Beaches,21,E
+16129,2024-06-29,Kew Balmy Beach,21,E
+16130,2024-06-29,Bluffer's Beach Park,21,E
+16131,2024-06-30,Marie Curtis Park East Beach,24,NW
+16132,2024-06-30,Sunnyside Beach,24,NW
+16133,2024-06-30,Hanlan's Point Beach,24,NW
+16134,2024-06-30,Gibraltar Point Beach,24,NW
+16135,2024-06-30,Centre Island Beach,24,NW
+16136,2024-06-30,Ward's Island Beach,24,NW
+16137,2024-06-30,Cherry Beach,24,NW
+16138,2024-06-30,Woodbine Beaches,24,NW
+16139,2024-06-30,Kew Balmy Beach,24,NW
+16140,2024-06-30,Bluffer's Beach Park,24,NW
+16141,2024-07-01,Marie Curtis Park East Beach,15,NW
+16142,2024-07-01,Sunnyside Beach,15,NW
+16143,2024-07-01,Hanlan's Point Beach,15,NW
+16144,2024-07-01,Gibraltar Point Beach,15,NW
+16145,2024-07-01,Centre Island Beach,15,NW
+16146,2024-07-01,Ward's Island Beach,15,NW
+16147,2024-07-01,Cherry Beach,15,NW
+16148,2024-07-01,Woodbine Beaches,15,NW
+16149,2024-07-01,Kew Balmy Beach,15,NW
+16150,2024-07-01,Bluffer's Beach Park,15,NW
+16151,2024-07-02,Marie Curtis Park East Beach,4,NW
+16152,2024-07-02,Sunnyside Beach,4,NW
+16153,2024-07-02,Hanlan's Point Beach,4,NW
+16154,2024-07-02,Gibraltar Point Beach,4,NW
+16155,2024-07-02,Centre Island Beach,4,NW
+16156,2024-07-02,Ward's Island Beach,4,NW
+16157,2024-07-02,Cherry Beach,4,NW
+16158,2024-07-02,Woodbine Beaches,4,NW
+16159,2024-07-02,Kew Balmy Beach,4,NW
+16160,2024-07-02,Bluffer's Beach Park,4,NW
+16331,2024-07-03,Marie Curtis Park East Beach,9,E
+16332,2024-07-03,Sunnyside Beach,9,E
+16333,2024-07-03,Hanlan's Point Beach,9,E
+16334,2024-07-03,Gibraltar Point Beach,9,E
+16335,2024-07-03,Centre Island Beach,9,E
+16336,2024-07-03,Ward's Island Beach,9,E
+16337,2024-07-03,Cherry Beach,9,E
+16338,2024-07-03,Woodbine Beaches,9,E
+16339,2024-07-03,Kew Balmy Beach,9,E
+16340,2024-07-03,Bluffer's Beach Park,9,E
+15461,2024-07-04,Marie Curtis Park East Beach,9,W
+15462,2024-07-04,Sunnyside Beach,9,W
+15463,2024-07-04,Hanlan's Point Beach,9,W
+15464,2024-07-04,Gibraltar Point Beach,9,W
+15465,2024-07-04,Centre Island Beach,9,W
+15466,2024-07-04,Ward's Island Beach,9,W
+15467,2024-07-04,Cherry Beach,9,W
+15468,2024-07-04,Woodbine Beaches,9,W
+15469,2024-07-04,Kew Balmy Beach,9,W
+15470,2024-07-04,Bluffer's Beach Park,9,W
+12588,2024-07-05,Marie Curtis Park East Beach,4,SW
+12589,2024-07-05,Sunnyside Beach,4,SW
+12590,2024-07-05,Hanlan's Point Beach,4,SW
+12591,2024-07-05,Gibraltar Point Beach,4,SW
+12592,2024-07-05,Centre Island Beach,4,SW
+12593,2024-07-05,Ward's Island Beach,4,SW
+12594,2024-07-05,Cherry Beach,4,SW
+12595,2024-07-05,Woodbine Beaches,4,SW
+12596,2024-07-05,Kew Balmy Beach,4,SW
+12597,2024-07-05,Bluffer's Beach Park,4,SW
+12048,2024-07-06,Marie Curtis Park East Beach,8,SW
+12049,2024-07-06,Sunnyside Beach,8,SW
+12050,2024-07-06,Hanlan's Point Beach,8,SW
+12051,2024-07-06,Gibraltar Point Beach,8,SW
+12052,2024-07-06,Centre Island Beach,8,SW
+12053,2024-07-06,Ward's Island Beach,8,SW
+12054,2024-07-06,Cherry Beach,8,SW
+12055,2024-07-06,Woodbine Beaches,8,SW
+12056,2024-07-06,Kew Balmy Beach,8,SW
+12057,2024-07-06,Bluffer's Beach Park,8,SW
+12058,2024-07-07,Marie Curtis Park East Beach,9,NW
+12059,2024-07-07,Sunnyside Beach,9,NW
+12060,2024-07-07,Hanlan's Point Beach,9,NW
+12061,2024-07-07,Gibraltar Point Beach,9,NW
+12062,2024-07-07,Centre Island Beach,9,NW
+12063,2024-07-07,Ward's Island Beach,9,NW
+12064,2024-07-07,Cherry Beach,9,NW
+12065,2024-07-07,Woodbine Beaches,9,NW
+12066,2024-07-07,Kew Balmy Beach,9,NW
+12067,2024-07-07,Bluffer's Beach Park,9,NW
+12068,2024-07-08,Marie Curtis Park East Beach,9,W
+12069,2024-07-08,Sunnyside Beach,9,W
+12070,2024-07-08,Hanlan's Point Beach,9,W
+12071,2024-07-08,Gibraltar Point Beach,9,W
+12072,2024-07-08,Centre Island Beach,9,W
+12073,2024-07-08,Ward's Island Beach,9,W
+12074,2024-07-08,Cherry Beach,7,W
+12075,2024-07-08,Woodbine Beaches,7,W
+12076,2024-07-08,Kew Balmy Beach,7,W
+12077,2024-07-08,Bluffer's Beach Park,7,W
+14019,2024-07-09,Marie Curtis Park East Beach,13,NW
+14020,2024-07-09,Sunnyside Beach,13,NW
+14021,2024-07-09,Hanlan's Point Beach,13,NW
+14022,2024-07-09,Gibraltar Point Beach,13,NW
+14023,2024-07-09,Centre Island Beach,13,NW
+14024,2024-07-09,Ward's Island Beach,13,NW
+14025,2024-07-09,Cherry Beach,13,NW
+14026,2024-07-09,Woodbine Beaches,13,NW
+14027,2024-07-09,Kew Balmy Beach,13,NW
+14028,2024-07-09,Bluffer's Beach Park,13,NW
+13739,2024-07-10,Marie Curtis Park East Beach,18,N
+13740,2024-07-10,Sunnyside Beach,18,N
+13741,2024-07-10,Hanlan's Point Beach,18,N
+13742,2024-07-10,Gibraltar Point Beach,18,N
+13743,2024-07-10,Centre Island Beach,18,N
+13744,2024-07-10,Ward's Island Beach,18,N
+13745,2024-07-10,Cherry Beach,18,N
+13746,2024-07-10,Woodbine Beaches,18,N
+13747,2024-07-10,Kew Balmy Beach,18,N
+13748,2024-07-10,Bluffer's Beach Park,18,N
+15771,2024-07-11,Marie Curtis Park East Beach,13,N
+15772,2024-07-11,Sunnyside Beach,13,N
+15773,2024-07-11,Hanlan's Point Beach,13,N
+15774,2024-07-11,Gibraltar Point Beach,13,N
+15775,2024-07-11,Centre Island Beach,13,N
+15776,2024-07-11,Ward's Island Beach,13,N
+15777,2024-07-11,Cherry Beach,13,N
+15778,2024-07-11,Woodbine Beaches,13,N
+15779,2024-07-11,Kew Balmy Beach,13,N
+15780,2024-07-11,Bluffer's Beach Park,13,N
+11918,2024-07-12,Marie Curtis Park East Beach,8,NW
+11919,2024-07-12,Sunnyside Beach,8,NW
+11920,2024-07-12,Hanlan's Point Beach,8,NW
+11921,2024-07-12,Gibraltar Point Beach,8,NW
+11922,2024-07-12,Centre Island Beach,8,NW
+11923,2024-07-12,Ward's Island Beach,8,NW
+11924,2024-07-12,Cherry Beach,8,NW
+11925,2024-07-12,Woodbine Beaches,8,NW
+11926,2024-07-12,Kew Balmy Beach,8,NW
+11927,2024-07-12,Bluffer's Beach Park,8,NW
+14409,2024-07-13,Marie Curtis Park East Beach,9,W
+14410,2024-07-13,Sunnyside Beach,9,W
+14411,2024-07-13,Hanlan's Point Beach,9,W
+14412,2024-07-13,Gibraltar Point Beach,9,W
+14413,2024-07-13,Centre Island Beach,9,W
+14414,2024-07-13,Ward's Island Beach,9,W
+14415,2024-07-13,Cherry Beach,9,W
+14416,2024-07-13,Woodbine Beaches,9,W
+14417,2024-07-13,Kew Balmy Beach,9,W
+14418,2024-07-13,Bluffer's Beach Park,9,W
+14419,2024-07-14,Marie Curtis Park East Beach,4,S
+14420,2024-07-14,Sunnyside Beach,4,S
+14421,2024-07-14,Hanlan's Point Beach,4,S
+14422,2024-07-14,Gibraltar Point Beach,4,S
+14423,2024-07-14,Centre Island Beach,4,S
+14424,2024-07-14,Ward's Island Beach,4,S
+14425,2024-07-14,Cherry Beach,4,N
+14426,2024-07-14,Woodbine Beaches,4,N
+14427,2024-07-14,Kew Balmy Beach,4,N
+14428,2024-07-14,Bluffer's Beach Park,4,N
+13599,2024-07-15,Marie Curtis Park East Beach,18,SW
+13600,2024-07-15,Sunnyside Beach,18,SW
+13601,2024-07-15,Hanlan's Point Beach,18,SW
+13602,2024-07-15,Gibraltar Point Beach,18,SW
+13603,2024-07-15,Centre Island Beach,18,SW
+13604,2024-07-15,Ward's Island Beach,18,SW
+13605,2024-07-15,Cherry Beach,18,SW
+13606,2024-07-15,Woodbine Beaches,18,SW
+13607,2024-07-15,Kew Balmy Beach,18,SW
+13608,2024-07-15,Bluffer's Beach Park,18,SW
+16091,2024-07-16,Marie Curtis Park East Beach,8,E
+16092,2024-07-16,Sunnyside Beach,8,E
+16093,2024-07-16,Hanlan's Point Beach,8,E
+16094,2024-07-16,Gibraltar Point Beach,8,E
+16095,2024-07-16,Centre Island Beach,8,E
+16096,2024-07-16,Ward's Island Beach,8,E
+16097,2024-07-16,Cherry Beach,8,E
+16098,2024-07-16,Woodbine Beaches,8,E
+16099,2024-07-16,Kew Balmy Beach,8,E
+16100,2024-07-16,Bluffer's Beach Park,8,E
+13273,2024-07-17,Marie Curtis Park East Beach,11,NW
+13274,2024-07-17,Sunnyside Beach,11,NW
+13275,2024-07-17,Hanlan's Point Beach,11,NW
+13276,2024-07-17,Gibraltar Point Beach,11,NW
+13277,2024-07-17,Centre Island Beach,11,NW
+13278,2024-07-17,Ward's Island Beach,11,NW
+13279,2024-07-17,Cherry Beach,11,NW
+13280,2024-07-17,Woodbine Beaches,11,NW
+13281,2024-07-17,Kew Balmy Beach,11,NW
+13282,2024-07-17,Bluffer's Beach Park,11,NW
+13052,2024-07-18,Marie Curtis Park East Beach,26,NW
+13053,2024-07-18,Sunnyside Beach,26,NW
+13054,2024-07-18,Hanlan's Point Beach,26,NW
+13055,2024-07-18,Gibraltar Point Beach,26,NW
+13056,2024-07-18,Centre Island Beach,26,NW
+13057,2024-07-18,Ward's Island Beach,26,NW
+13058,2024-07-18,Cherry Beach,26,NW
+13059,2024-07-18,Woodbine Beaches,26,NW
+13060,2024-07-18,Kew Balmy Beach,26,NW
+13061,2024-07-18,Bluffer's Beach Park,26,NW
+16981,2024-07-19,Marie Curtis Park East Beach,4,NW
+16982,2024-07-19,Sunnyside Beach,4,NW
+16983,2024-07-19,Hanlan's Point Beach,4,NW
+16984,2024-07-19,Gibraltar Point Beach,4,NW
+16985,2024-07-19,Centre Island Beach,4,NW
+16986,2024-07-19,Ward's Island Beach,4,NW
+16987,2024-07-19,Cherry Beach,4,NW
+16988,2024-07-19,Woodbine Beaches,4,NW
+16989,2024-07-19,Kew Balmy Beach,4,NW
+16990,2024-07-19,Bluffer's Beach Park,4,NW
+13062,2024-07-20,Marie Curtis Park East Beach,8,SW
+13063,2024-07-20,Sunnyside Beach,8,SW
+13064,2024-07-20,Hanlan's Point Beach,8,SW
+13065,2024-07-20,Gibraltar Point Beach,8,SW
+13066,2024-07-20,Centre Island Beach,8,SW
+13067,2024-07-20,Ward's Island Beach,8,SW
+13068,2024-07-20,Cherry Beach,8,SW
+13069,2024-07-20,Woodbine Beaches,8,SW
+13070,2024-07-20,Kew Balmy Beach,8,SW
+13071,2024-07-20,Bluffer's Beach Park,8,SW
+13072,2024-07-21,Marie Curtis Park East Beach,9,SW
+13073,2024-07-21,Sunnyside Beach,9,SW
+13074,2024-07-21,Hanlan's Point Beach,9,SW
+13075,2024-07-21,Gibraltar Point Beach,9,SW
+13076,2024-07-21,Centre Island Beach,9,SW
+13077,2024-07-21,Ward's Island Beach,9,SW
+13078,2024-07-21,Cherry Beach,9,SW
+13079,2024-07-21,Woodbine Beaches,9,SW
+13080,2024-07-21,Kew Balmy Beach,9,SW
+13081,2024-07-21,Bluffer's Beach Park,9,SW
+13082,2024-07-22,Marie Curtis Park East Beach,9,W
+13083,2024-07-22,Sunnyside Beach,9,W
+13084,2024-07-22,Hanlan's Point Beach,9,W
+13085,2024-07-22,Gibraltar Point Beach,9,W
+13086,2024-07-22,Centre Island Beach,9,W
+13087,2024-07-22,Ward's Island Beach,9,W
+13088,2024-07-22,Cherry Beach,9,W
+13089,2024-07-22,Woodbine Beaches,9,W
+13090,2024-07-22,Kew Balmy Beach,9,W
+13091,2024-07-22,Bluffer's Beach Park,9,W
+15381,2024-07-23,Marie Curtis Park East Beach,9,W
+15382,2024-07-23,Sunnyside Beach,9,W
+15383,2024-07-23,Hanlan's Point Beach,9,W
+15384,2024-07-23,Gibraltar Point Beach,9,W
+15385,2024-07-23,Centre Island Beach,9,W
+15386,2024-07-23,Ward's Island Beach,9,W
+15387,2024-07-23,Cherry Beach,9,W
+15388,2024-07-23,Woodbine Beaches,9,W
+15389,2024-07-23,Kew Balmy Beach,9,W
+15390,2024-07-23,Bluffer's Beach Park,9,W
+12078,2024-07-24,Marie Curtis Park East Beach,4,SE
+12079,2024-07-24,Sunnyside Beach,4,SE
+12080,2024-07-24,Hanlan's Point Beach,4,SE
+12081,2024-07-24,Gibraltar Point Beach,4,SE
+12082,2024-07-24,Centre Island Beach,4,SE
+12083,2024-07-24,Ward's Island Beach,4,SE
+12084,2024-07-24,Cherry Beach,4,SE
+12085,2024-07-24,Woodbine Beaches,4,SE
+12086,2024-07-24,Kew Balmy Beach,4,SE
+12087,2024-07-24,Bluffer's Beach Park,4,SE
+14961,2024-07-25,Marie Curtis Park East Beach,13,NW
+14962,2024-07-25,Sunnyside Beach,13,NW
+14963,2024-07-25,Hanlan's Point Beach,13,NW
+14964,2024-07-25,Gibraltar Point Beach,13,NW
+14965,2024-07-25,Centre Island Beach,13,NW
+14966,2024-07-25,Ward's Island Beach,13,NW
+14967,2024-07-25,Cherry Beach,13,NW
+14968,2024-07-25,Woodbine Beaches,13,NW
+14969,2024-07-25,Kew Balmy Beach,13,NW
+14970,2024-07-25,Bluffer's Beach Park,13,NW
+15551,2024-07-26,Marie Curtis Park East Beach,11,W
+15552,2024-07-26,Sunnyside Beach,11,W
+15553,2024-07-26,Hanlan's Point Beach,11,W
+15554,2024-07-26,Gibraltar Point Beach,11,W
+15555,2024-07-26,Centre Island Beach,11,W
+15556,2024-07-26,Ward's Island Beach,11,W
+15557,2024-07-26,Cherry Beach,11,W
+15558,2024-07-26,Woodbine Beaches,11,W
+15559,2024-07-26,Kew Balmy Beach,11,W
+15560,2024-07-26,Bluffer's Beach Park,11,W
+17261,2024-07-27,Marie Curtis Park East Beach,8,W
+17262,2024-07-27,Sunnyside Beach,8,W
+17263,2024-07-27,Hanlan's Point Beach,8,W
+17264,2024-07-27,Gibraltar Point Beach,8,W
+17265,2024-07-27,Centre Island Beach,8,W
+17266,2024-07-27,Ward's Island Beach,8,W
+17267,2024-07-27,Cherry Beach,8,W
+17268,2024-07-27,Woodbine Beaches,8,W
+17269,2024-07-27,Kew Balmy Beach,8,W
+17270,2024-07-27,Bluffer's Beach Park,8,W
+17271,2024-07-28,Marie Curtis Park East Beach,13,E
+17272,2024-07-28,Sunnyside Beach,13,E
+17273,2024-07-28,Hanlan's Point Beach,13,E
+17274,2024-07-28,Gibraltar Point Beach,13,E
+17275,2024-07-28,Centre Island Beach,13,E
+17276,2024-07-28,Ward's Island Beach,13,E
+17277,2024-07-28,Cherry Beach,13,E
+17278,2024-07-28,Woodbine Beaches,13,E
+17279,2024-07-28,Kew Balmy Beach,13,E
+17280,2024-07-28,Bluffer's Beach Park,13,E
+15561,2024-07-29,Marie Curtis Park East Beach,4,SW
+15562,2024-07-29,Sunnyside Beach,4,SW
+15563,2024-07-29,Hanlan's Point Beach,4,SW
+15564,2024-07-29,Gibraltar Point Beach,4,SW
+15565,2024-07-29,Centre Island Beach,4,SW
+15566,2024-07-29,Ward's Island Beach,4,SW
+15567,2024-07-29,Cherry Beach,4,SW
+15568,2024-07-29,Woodbine Beaches,4,SW
+15569,2024-07-29,Kew Balmy Beach,4,SW
+15570,2024-07-29,Bluffer's Beach Park,4,SW
+14259,2024-07-30,Marie Curtis Park East Beach,15,NE
+14260,2024-07-30,Sunnyside Beach,15,NE
+14261,2024-07-30,Hanlan's Point Beach,15,NE
+14262,2024-07-30,Gibraltar Point Beach,15,NE
+14263,2024-07-30,Centre Island Beach,15,NE
+14264,2024-07-30,Ward's Island Beach,15,NE
+14265,2024-07-30,Cherry Beach,15,NE
+14266,2024-07-30,Woodbine Beaches,15,NE
+14267,2024-07-30,Kew Balmy Beach,15,NE
+14268,2024-07-30,Bluffer's Beach Park,15,NE
+16661,2024-07-31,Marie Curtis Park East Beach,17,NW
+16662,2024-07-31,Sunnyside Beach,17,NW
+16663,2024-07-31,Hanlan's Point Beach,17,NW
+16664,2024-07-31,Gibraltar Point Beach,17,NW
+16665,2024-07-31,Centre Island Beach,17,NW
+16666,2024-07-31,Ward's Island Beach,17,NW
+16667,2024-07-31,Cherry Beach,17,NW
+16668,2024-07-31,Woodbine Beaches,17,NW
+16669,2024-07-31,Kew Balmy Beach,17,NW
+16670,2024-07-31,Bluffer's Beach Park,17,NW
+13609,2024-08-01,Marie Curtis Park East Beach,15,NW
+13610,2024-08-01,Sunnyside Beach,15,NW
+13611,2024-08-01,Hanlan's Point Beach,15,NW
+13612,2024-08-01,Gibraltar Point Beach,15,NW
+13613,2024-08-01,Centre Island Beach,15,NW
+13614,2024-08-01,Ward's Island Beach,15,NW
+13615,2024-08-01,Cherry Beach,15,NW
+13616,2024-08-01,Woodbine Beaches,15,NW
+13617,2024-08-01,Kew Balmy Beach,15,NW
+13618,2024-08-01,Bluffer's Beach Park,15,NW
+14701,2024-08-02,Marie Curtis Park East Beach,13,NE
+14702,2024-08-02,Sunnyside Beach,13,NE
+14703,2024-08-02,Hanlan's Point Beach,13,NE
+14704,2024-08-02,Gibraltar Point Beach,13,NE
+14705,2024-08-02,Centre Island Beach,13,NE
+14706,2024-08-02,Ward's Island Beach,13,NE
+14707,2024-08-02,Cherry Beach,13,NE
+14708,2024-08-02,Woodbine Beaches,13,NE
+14709,2024-08-02,Kew Balmy Beach,13,NE
+14710,2024-08-02,Bluffer's Beach Park,13,NE
+17501,2024-08-03,Marie Curtis Park East Beach,13,NW
+17502,2024-08-03,Sunnyside Beach,13,NW
+17503,2024-08-03,Hanlan's Point Beach,13,NW
+17504,2024-08-03,Gibraltar Point Beach,13,NW
+17505,2024-08-03,Centre Island Beach,13,NW
+17506,2024-08-03,Ward's Island Beach,13,NW
+17507,2024-08-03,Cherry Beach,13,NW
+17508,2024-08-03,Woodbine Beaches,13,NW
+17509,2024-08-03,Kew Balmy Beach,13,NW
+17510,2024-08-03,Bluffer's Beach Park,13,NW
+12998,2024-08-04,Marie Curtis Park East Beach,13,NW
+12999,2024-08-04,Sunnyside Beach,13,NW
+13000,2024-08-04,Hanlan's Point Beach,13,NW
+13001,2024-08-04,Gibraltar Point Beach,13,NW
+13002,2024-08-04,Centre Island Beach,13,NW
+13003,2024-08-04,Ward's Island Beach,13,NW
+13004,2024-08-04,Cherry Beach,13,NW
+13005,2024-08-04,Woodbine Beaches,13,NW
+13006,2024-08-04,Kew Balmy Beach,13,NW
+13007,2024-08-04,Bluffer's Beach Park,13,NW
+13008,2024-08-05,Marie Curtis Park East Beach,22,NE
+13009,2024-08-05,Sunnyside Beach,22,NE
+13010,2024-08-05,Hanlan's Point Beach,22,NE
+13011,2024-08-05,Gibraltar Point Beach,22,NE
+13012,2024-08-05,Centre Island Beach,22,NE
+13013,2024-08-05,Ward's Island Beach,22,NE
+13014,2024-08-05,Cherry Beach,22,NE
+13015,2024-08-05,Woodbine Beaches,22,NE
+13016,2024-08-05,Kew Balmy Beach,22,NE
+13017,2024-08-05,Bluffer's Beach Park,22,NE
+13018,2024-08-06,Marie Curtis Park East Beach,15,NE
+13019,2024-08-06,Sunnyside Beach,15,NE
+13020,2024-08-06,Hanlan's Point Beach,15,NE
+13021,2024-08-06,Gibraltar Point Beach,15,NE
+13283,2024-08-06,Centre Island Beach,15,NE
+13284,2024-08-06,Ward's Island Beach,15,NE
+13285,2024-08-06,Cherry Beach,15,NE
+13286,2024-08-06,Woodbine Beaches,15,NE
+13287,2024-08-06,Kew Balmy Beach,15,NE
+13288,2024-08-06,Bluffer's Beach Park,15,NE
+14209,2024-08-07,Marie Curtis Park East Beach,9,N
+14210,2024-08-07,Sunnyside Beach,9,N
+14211,2024-08-07,Hanlan's Point Beach,9,N
+14212,2024-08-07,Gibraltar Point Beach,9,N
+14213,2024-08-07,Centre Island Beach,9,N
+14214,2024-08-07,Ward's Island Beach,9,N
+14215,2024-08-07,Cherry Beach,9,N
+14216,2024-08-07,Woodbine Beaches,9,N
+14217,2024-08-07,Kew Balmy Beach,9,N
+14218,2024-08-07,Bluffer's Beach Park,9,N
+15821,2024-08-08,Marie Curtis Park East Beach,17,E
+15822,2024-08-08,Sunnyside Beach,17,E
+15823,2024-08-08,Hanlan's Point Beach,17,E
+15824,2024-08-08,Gibraltar Point Beach,17,E
+15825,2024-08-08,Centre Island Beach,17,E
+15826,2024-08-08,Ward's Island Beach,17,E
+15827,2024-08-08,Cherry Beach,17,E
+15828,2024-08-08,Woodbine Beaches,17,E
+15829,2024-08-08,Kew Balmy Beach,17,E
+15830,2024-08-08,Bluffer's Beach Park,17,E
+12898,2024-08-09,Marie Curtis Park East Beach,15,E
+12899,2024-08-09,Sunnyside Beach,15,E
+12900,2024-08-09,Hanlan's Point Beach,15,E
+12901,2024-08-09,Gibraltar Point Beach,15,E
+12902,2024-08-09,Centre Island Beach,15,E
+12903,2024-08-09,Ward's Island Beach,15,E
+12904,2024-08-09,Cherry Beach,15,E
+12905,2024-08-09,Woodbine Beaches,15,E
+12906,2024-08-09,Kew Balmy Beach,15,E
+12907,2024-08-09,Bluffer's Beach Park,15,E
+13569,2024-08-10,Marie Curtis Park East Beach,18,W
+13570,2024-08-10,Sunnyside Beach,18,W
+13571,2024-08-10,Hanlan's Point Beach,18,W
+13572,2024-08-10,Gibraltar Point Beach,18,W
+13573,2024-08-10,Centre Island Beach,18,W
+13574,2024-08-10,Ward's Island Beach,18,W
+13575,2024-08-10,Cherry Beach,18,W
+13576,2024-08-10,Woodbine Beaches,18,W
+13577,2024-08-10,Kew Balmy Beach,18,W
+13578,2024-08-10,Bluffer's Beach Park,18,W
+13579,2024-08-11,Marie Curtis Park East Beach,18,SW
+13580,2024-08-11,Sunnyside Beach,18,SW
+13581,2024-08-11,Hanlan's Point Beach,18,SW
+13582,2024-08-11,Gibraltar Point Beach,18,SW
+13583,2024-08-11,Centre Island Beach,18,SW
+13584,2024-08-11,Ward's Island Beach,18,SW
+13585,2024-08-11,Cherry Beach,18,SW
+13586,2024-08-11,Woodbine Beaches,18,SW
+13587,2024-08-11,Kew Balmy Beach,18,SW
+13588,2024-08-11,Bluffer's Beach Park,18,SW
+13379,2024-08-12,Marie Curtis Park East Beach,13,W
+13380,2024-08-12,Sunnyside Beach,13,W
+13381,2024-08-12,Hanlan's Point Beach,13,W
+13382,2024-08-12,Gibraltar Point Beach,13,W
+13383,2024-08-12,Centre Island Beach,13,W
+13384,2024-08-12,Ward's Island Beach,13,W
+13385,2024-08-12,Cherry Beach,13,W
+13386,2024-08-12,Woodbine Beaches,13,W
+13387,2024-08-12,Kew Balmy Beach,13,W
+13388,2024-08-12,Bluffer's Beach Park,13,W
+12688,2024-08-13,Marie Curtis Park East Beach,17,NW
+12689,2024-08-13,Sunnyside Beach,17,NW
+12690,2024-08-13,Hanlan's Point Beach,17,NW
+12691,2024-08-13,Gibraltar Point Beach,17,NW
+12692,2024-08-13,Centre Island Beach,17,NW
+12693,2024-08-13,Ward's Island Beach,17,NW
+12694,2024-08-13,Cherry Beach,17,NW
+12695,2024-08-13,Woodbine Beaches,17,NW
+12696,2024-08-13,Kew Balmy Beach,17,NW
+12697,2024-08-13,Bluffer's Beach Park,17,NW
+15781,2024-08-14,Marie Curtis Park East Beach,5,W
+15782,2024-08-14,Sunnyside Beach,5,W
+15783,2024-08-14,Hanlan's Point Beach,5,W
+15784,2024-08-14,Gibraltar Point Beach,5,W
+15785,2024-08-14,Centre Island Beach,5,W
+15786,2024-08-14,Ward's Island Beach,5,W
+15787,2024-08-14,Cherry Beach,5,W
+15788,2024-08-14,Woodbine Beaches,5,W
+15789,2024-08-14,Kew Balmy Beach,5,W
+15790,2024-08-14,Bluffer's Beach Park,5,W
+16581,2024-08-15,Marie Curtis Park East Beach,9,SW
+16582,2024-08-15,Sunnyside Beach,9,SW
+16583,2024-08-15,Hanlan's Point Beach,9,SW
+16584,2024-08-15,Gibraltar Point Beach,9,SW
+16585,2024-08-15,Centre Island Beach,9,SW
+16586,2024-08-15,Ward's Island Beach,9,SW
+16587,2024-08-15,Cherry Beach,9,SW
+16588,2024-08-15,Woodbine Beaches,9,SW
+16589,2024-08-15,Kew Balmy Beach,9,SW
+16590,2024-08-15,Bluffer's Beach Park,9,SW
+17831,2024-08-16,Marie Curtis Park East Beach,17,NE
+17832,2024-08-16,Sunnyside Beach,17,NE
+17833,2024-08-16,Hanlan's Point Beach,17,NE
+17834,2024-08-16,Gibraltar Point Beach,17,NE
+17835,2024-08-16,Centre Island Beach,17,NE
+17836,2024-08-16,Ward's Island Beach,17,NE
+17837,2024-08-16,Cherry Beach,17,NE
+17838,2024-08-16,Woodbine Beaches,17,NE
+17839,2024-08-16,Kew Balmy Beach,17,NE
+17840,2024-08-16,Bluffer's Beach Park,17,NE
+14971,2024-08-17,Marie Curtis Park East Beach,15,NE
+14972,2024-08-17,Sunnyside Beach,15,NE
+14973,2024-08-17,Hanlan's Point Beach,15,NE
+14974,2024-08-17,Gibraltar Point Beach,15,NE
+14975,2024-08-17,Centre Island Beach,15,NE
+14976,2024-08-17,Ward's Island Beach,15,NE
+14977,2024-08-17,Cherry Beach,15,NE
+14978,2024-08-17,Woodbine Beaches,15,NE
+14979,2024-08-17,Kew Balmy Beach,15,NE
+14980,2024-08-17,Bluffer's Beach Park,15,NE
+14981,2024-08-18,Marie Curtis Park East Beach,17,SW
+14982,2024-08-18,Sunnyside Beach,17,SW
+14983,2024-08-18,Hanlan's Point Beach,17,SW
+14984,2024-08-18,Gibraltar Point Beach,17,SW
+14985,2024-08-18,Centre Island Beach,17,SW
+14986,2024-08-18,Ward's Island Beach,17,SW
+14987,2024-08-18,Cherry Beach,17,SW
+14988,2024-08-18,Woodbine Beaches,17,SW
+14989,2024-08-18,Kew Balmy Beach,17,SW
+14990,2024-08-18,Bluffer's Beach Park,17,SW
+14991,2024-08-19,Marie Curtis Park East Beach,21,NW
+14992,2024-08-19,Sunnyside Beach,21,NW
+14993,2024-08-19,Hanlan's Point Beach,21,NW
+14994,2024-08-19,Gibraltar Point Beach,21,NW
+14995,2024-08-19,Centre Island Beach,21,NW
+14996,2024-08-19,Ward's Island Beach,21,NW
+14997,2024-08-19,Cherry Beach,21,NW
+14998,2024-08-19,Woodbine Beaches,21,NW
+14999,2024-08-19,Kew Balmy Beach,21,NW
+15000,2024-08-19,Bluffer's Beach Park,21,NW
+15001,2024-08-20,Marie Curtis Park East Beach,13,NW
+15002,2024-08-20,Sunnyside Beach,13,NW
+15003,2024-08-20,Hanlan's Point Beach,13,NW
+15004,2024-08-20,Gibraltar Point Beach,13,NW
+15005,2024-08-20,Centre Island Beach,13,NW
+15006,2024-08-20,Ward's Island Beach,13,NW
+15007,2024-08-20,Cherry Beach,13,NW
+15008,2024-08-20,Woodbine Beaches,13,NW
+15009,2024-08-20,Kew Balmy Beach,13,NW
+15010,2024-08-20,Bluffer's Beach Park,13,NW
+15011,2024-08-21,Marie Curtis Park East Beach,13,NW
+15012,2024-08-21,Sunnyside Beach,13,NW
+15013,2024-08-21,Hanlan's Point Beach,13,NW
+15014,2024-08-21,Gibraltar Point Beach,13,NW
+15015,2024-08-21,Centre Island Beach,13,NW
+15016,2024-08-21,Ward's Island Beach,13,NW
+15017,2024-08-21,Cherry Beach,13,NW
+15018,2024-08-21,Woodbine Beaches,13,NW
+15019,2024-08-21,Kew Balmy Beach,13,NW
+15250,2024-08-21,Bluffer's Beach Park,13,NW
+14429,2024-08-22,Marie Curtis Park East Beach,15,NW
+14430,2024-08-22,Sunnyside Beach,15,NW
+14431,2024-08-22,Hanlan's Point Beach,15,NW
+14432,2024-08-22,Gibraltar Point Beach,15,NW
+14433,2024-08-22,Centre Island Beach,15,NW
+14434,2024-08-22,Ward's Island Beach,15,NW
+14435,2024-08-22,Cherry Beach,15,NW
+14436,2024-08-22,Woodbine Beaches,15,NW
+14437,2024-08-22,Kew Balmy Beach,15,NW
+14438,2024-08-22,Bluffer's Beach Park,15,NW
+17281,2024-08-23,Marie Curtis Park East Beach,9,SW
+17282,2024-08-23,Sunnyside Beach,9,SW
+17283,2024-08-23,Hanlan's Point Beach,9,SW
+17284,2024-08-23,Gibraltar Point Beach,9,SW
+17285,2024-08-23,Centre Island Beach,9,SW
+17286,2024-08-23,Ward's Island Beach,9,SW
+17287,2024-08-23,Cherry Beach,9,SW
+17288,2024-08-23,Woodbine Beaches,9,SW
+17289,2024-08-23,Kew Balmy Beach,9,SW
+17290,2024-08-23,Bluffer's Beach Park,9,SW
+13132,2024-08-24,Marie Curtis Park East Beach,8,W
+13133,2024-08-24,Sunnyside Beach,8,W
+13134,2024-08-24,Hanlan's Point Beach,8,W
+13135,2024-08-24,Gibraltar Point Beach,8,W
+13136,2024-08-24,Centre Island Beach,8,W
+13137,2024-08-24,Ward's Island Beach,8,W
+13138,2024-08-24,Cherry Beach,8,W
+13139,2024-08-24,Woodbine Beaches,8,W
+13140,2024-08-24,Kew Balmy Beach,8,W
+13141,2024-08-24,Bluffer's Beach Park,8,W
+16361,2024-08-25,Marie Curtis Park East Beach,4,SE
+16362,2024-08-25,Sunnyside Beach,4,SE
+16363,2024-08-25,Hanlan's Point Beach,4,SE
+16364,2024-08-25,Gibraltar Point Beach,4,SE
+16365,2024-08-25,Centre Island Beach,4,SE
+16366,2024-08-25,Ward's Island Beach,4,SE
+16367,2024-08-25,Cherry Beach,,None
+16368,2024-08-25,Woodbine Beaches,,None
+16369,2024-08-25,Kew Balmy Beach,,None
+16370,2024-08-25,Bluffer's Beach Park,,None
+17121,2024-08-26,Marie Curtis Park East Beach,9,W
+17122,2024-08-26,Sunnyside Beach,9,W
+17123,2024-08-26,Hanlan's Point Beach,9,W
+17124,2024-08-26,Gibraltar Point Beach,9,W
+17125,2024-08-26,Centre Island Beach,9,W
+17126,2024-08-26,Ward's Island Beach,9,W
+17127,2024-08-26,Cherry Beach,9,W
+17128,2024-08-26,Woodbine Beaches,9,W
+17129,2024-08-26,Kew Balmy Beach,9,W
+17130,2024-08-26,Bluffer's Beach Park,9,W
+11608,2024-08-27,Marie Curtis Park East Beach,4,SE
+11609,2024-08-27,Sunnyside Beach,4,SE
+11610,2024-08-27,Hanlan's Point Beach,4,SE
+11611,2024-08-27,Gibraltar Point Beach,4,SE
+11612,2024-08-27,Centre Island Beach,4,SE
+11613,2024-08-27,Ward's Island Beach,4,SE
+11614,2024-08-27,Cherry Beach,6,S
+11615,2024-08-27,Woodbine Beaches,6,S
+11616,2024-08-27,Kew Balmy Beach,6,S
+11617,2024-08-27,Bluffer's Beach Park,6,S
+16841,2024-08-28,Marie Curtis Park East Beach,8,NW
+16842,2024-08-28,Sunnyside Beach,8,NW
+16843,2024-08-28,Hanlan's Point Beach,8,NW
+16844,2024-08-28,Gibraltar Point Beach,8,NW
+16845,2024-08-28,Centre Island Beach,8,NW
+16846,2024-08-28,Ward's Island Beach,8,NW
+16847,2024-08-28,Cherry Beach,8,NW
+16848,2024-08-28,Woodbine Beaches,8,NW
+16849,2024-08-28,Kew Balmy Beach,8,NW
+16850,2024-08-28,Bluffer's Beach Park,8,NW
+16071,2024-08-29,Marie Curtis Park East Beach,15,NE
+16072,2024-08-29,Sunnyside Beach,15,NE
+16073,2024-08-29,Hanlan's Point Beach,15,NE
+16074,2024-08-29,Gibraltar Point Beach,15,NE
+16075,2024-08-29,Centre Island Beach,15,NE
+16076,2024-08-29,Ward's Island Beach,15,NE
+16077,2024-08-29,Cherry Beach,15,NE
+16078,2024-08-29,Woodbine Beaches,15,NE
+16079,2024-08-29,Kew Balmy Beach,15,NE
+16080,2024-08-29,Bluffer's Beach Park,15,NE
+16611,2024-08-30,Marie Curtis Park East Beach,13,NE
+16612,2024-08-30,Sunnyside Beach,13,NE
+16613,2024-08-30,Hanlan's Point Beach,13,NE
+16614,2024-08-30,Gibraltar Point Beach,13,NE
+16615,2024-08-30,Centre Island Beach,13,NE
+16616,2024-08-30,Ward's Island Beach,13,NE
+16617,2024-08-30,Cherry Beach,7,NE
+16618,2024-08-30,Woodbine Beaches,7,NE
+16619,2024-08-30,Kew Balmy Beach,7,NE
+16620,2024-08-30,Bluffer's Beach Park,7,NE
+11848,2024-08-31,Marie Curtis Park East Beach,5,SW
+11849,2024-08-31,Sunnyside Beach,5,SW
+11850,2024-08-31,Hanlan's Point Beach,5,SW
+11851,2024-08-31,Gibraltar Point Beach,5,SW
+11852,2024-08-31,Centre Island Beach,5,SW
+11853,2024-08-31,Ward's Island Beach,5,SW
+11854,2024-08-31,Cherry Beach,7,SW
+11855,2024-08-31,Woodbine Beaches,7,SW
+11856,2024-08-31,Kew Balmy Beach,7,SW
+11857,2024-08-31,Bluffer's Beach Park,7,SW
+14848,2024-09-01,Marie Curtis Park East Beach,18,SW
+14849,2024-09-01,Sunnyside Beach,18,SW
+14850,2024-09-01,Hanlan's Point Beach,18,SW
+14851,2024-09-01,Gibraltar Point Beach,18,SW
+14852,2024-09-01,Centre Island Beach,18,SW
+14853,2024-09-01,Ward's Island Beach,18,SW
+14854,2024-09-01,Cherry Beach,18,SW
+14855,2024-09-01,Woodbine Beaches,18,SW
+14856,2024-09-01,Kew Balmy Beach,18,SW
+14857,2024-09-01,Bluffer's Beach Park,18,SW
+14858,2024-09-02,Marie Curtis Park East Beach,9,NW
+14859,2024-09-02,Sunnyside Beach,9,NW
+14860,2024-09-02,Hanlan's Point Beach,9,NW
+14861,2024-09-02,Gibraltar Point Beach,9,NW
+14862,2024-09-02,Centre Island Beach,9,NW
+14863,2024-09-02,Ward's Island Beach,9,NW
+14864,2024-09-02,Cherry Beach,9,NW
+14865,2024-09-02,Woodbine Beaches,9,NW
+14866,2024-09-02,Kew Balmy Beach,9,NW
+14867,2024-09-02,Bluffer's Beach Park,9,NW
+14868,2024-09-03,Marie Curtis Park East Beach,17,N
+14869,2024-09-03,Sunnyside Beach,17,N
+14870,2024-09-03,Hanlan's Point Beach,17,N
+14871,2024-09-03,Gibraltar Point Beach,17,N
+14872,2024-09-03,Centre Island Beach,17,N
+14873,2024-09-03,Ward's Island Beach,17,N
+14874,2024-09-03,Cherry Beach,17,N
+14875,2024-09-03,Woodbine Beaches,17,N
+14876,2024-09-03,Kew Balmy Beach,17,N
+14877,2024-09-03,Bluffer's Beach Park,17,N
+17901,2024-09-04,Marie Curtis Park East Beach,4,SE
+17902,2024-09-04,Sunnyside Beach,4,SE
+17903,2024-09-04,Hanlan's Point Beach,4,SE
+17904,2024-09-04,Gibraltar Point Beach,4,SE
+17905,2024-09-04,Centre Island Beach,4,SE
+17906,2024-09-04,Ward's Island Beach,4,SE
+17907,2024-09-04,Cherry Beach,4,SE
+17908,2024-09-04,Woodbine Beaches,4,SE
+17909,2024-09-04,Kew Balmy Beach,4,SE
+17910,2024-09-04,Bluffer's Beach Park,4,SE
+14219,2024-09-05,Marie Curtis Park East Beach,,N
+14220,2024-09-05,Sunnyside Beach,,N
+14221,2024-09-05,Hanlan's Point Beach,,N
+14222,2024-09-05,Gibraltar Point Beach,,N
+14223,2024-09-05,Centre Island Beach,,N
+14224,2024-09-05,Ward's Island Beach,,N
+14225,2024-09-05,Cherry Beach,,N
+14226,2024-09-05,Woodbine Beaches,,N
+14227,2024-09-05,Kew Balmy Beach,,N
+14228,2024-09-05,Bluffer's Beach Park,,N
+15471,2024-09-06,Marie Curtis Park East Beach,18,SW
+15472,2024-09-06,Sunnyside Beach,18,SW
+15473,2024-09-06,Hanlan's Point Beach,18,SW
+15474,2024-09-06,Gibraltar Point Beach,18,SW
+15475,2024-09-06,Centre Island Beach,18,SW
+15476,2024-09-06,Ward's Island Beach,18,SW
+15477,2024-09-06,Cherry Beach,18,SW
+15478,2024-09-06,Woodbine Beaches,18,SW
+15479,2024-09-06,Kew Balmy Beach,18,SW
+15480,2024-09-06,Bluffer's Beach Park,18,SW
+14711,2024-09-07,Marie Curtis Park East Beach,15,W
+14712,2024-09-07,Sunnyside Beach,15,W
+14713,2024-09-07,Hanlan's Point Beach,15,W
+14714,2024-09-07,Gibraltar Point Beach,15,W
+14715,2024-09-07,Centre Island Beach,15,W
+14716,2024-09-07,Ward's Island Beach,15,W
+14717,2024-09-07,Cherry Beach,15,W
+14898,2024-09-07,Woodbine Beaches,15,W
+14899,2024-09-07,Kew Balmy Beach,15,W
+14900,2024-09-07,Bluffer's Beach Park,15,W
+12008,2024-09-08,Marie Curtis Park East Beach,21,SW
+12009,2024-09-08,Sunnyside Beach,21,SW
+12010,2024-09-08,Hanlan's Point Beach,21,SW
+12011,2024-09-08,Gibraltar Point Beach,21,SW
+12012,2024-09-08,Centre Island Beach,21,SW
+12013,2024-09-08,Ward's Island Beach,21,SW
+12014,2024-09-08,Cherry Beach,21,SW
+12015,2024-09-08,Woodbine Beaches,21,SW
+12016,2024-09-08,Kew Balmy Beach,21,SW
+12017,2024-09-08,Bluffer's Beach Park,21,SW
